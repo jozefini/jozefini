@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </a>
 <!-- Sanity.Io -->
 <a href="https://sanity.io/" target="_blank"> 
-  <img alt="Sanity.io" src="https://img.shields.io/badge/Sanity.Io-f03e2f?style=for-the-badge&logo=stripe&logoColor=fff">
+  <img alt="Sanity.io" src="https://img.shields.io/badge/Sanity.Io-f03e2f?style=for-the-badge&logo=spark%20ar&logoColor=fff">
 </a>
 <!-- Skills end -->
 
