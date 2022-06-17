@@ -3,8 +3,7 @@
   <b>Hi 👋, I'm Jozi</b>
 </h1>
 
-<b>Welcome!</b><br/>
-Some things about me:<br/>
+<b>Welcome!</b> Some things about me:<br/>
 :one: Web Developer and IT Cisco Certified.<br/>
 :two: Proficient with ReactJS, NextJS, TypeScript, TailwindCSS and Sanity.Io.<br/> 
 :three: I’m currently working as freelancer.<br/>
