@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ```javascript
 const WebDeveloper = {
-  name: 'Jozi Bashaj',
-  username: 'CodeAlb',
+  fullName: 'Jozi Bashaj',
   location: 'Shkoder, Albania',
   linkedIn: 'https//linkedin.com/in/JoziBashaj'
 }
