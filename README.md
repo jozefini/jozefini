@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/codealb?template=classic&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FBerlin)
+<a href="https://www.linkedin.com/in/jozibashaj">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=CodeAlb&show_icons=true&theme=react" alt="Jozi Bashaj's github stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlb&layout=compact&theme=react" alt="Jozi Bashaj's top languages" />
+</a>
