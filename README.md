@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```javascript
+const Profile = {
+  name: 'Jozi Bashaj',
+  username: 'CodeAlb',
+  location: 'Shkoder, Albania',
+  linkedIn: 'https//linkedin.com/in/JoziBashaj'
+}
+
+export default Profile
+```
+
 <!-- Skills start -->
 <h2>Skills</h2>
 <!-- ReactJS -->
