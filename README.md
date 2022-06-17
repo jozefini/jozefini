@@ -31,9 +31,9 @@ const WebDeveloper = {
 }
 ```
 
-<h1>
+<h2>
   <b>Github Stats</b>
-</h1>
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeAlb&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Jozi Bashaj's github-readme-stats"/>
