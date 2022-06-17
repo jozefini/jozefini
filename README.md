@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-const WebDeveloper = {
+const webDeveloper = {
   name: 'Jozi Bashaj',
   username: 'CodeAlb',
   location: 'Shkoder, Albania',
