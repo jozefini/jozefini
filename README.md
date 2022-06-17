@@ -17,9 +17,21 @@ Here are some ideas to get you started:
 
 <!-- Skills start -->
 <h2>Skills</h2>
+<!-- ReactJS -->
+<a href="https://reactjs.org/" target="_blank"> 
+  <img alt="React JS" src="https://img.shields.io/badge/React%20Js-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
+</a>
 <!-- NextJS -->
 <a href="https://www.nextjs.org" target="_blank"> 
-  <img alt="Next JS" src="https://img.shields.io/badge/Next-fff?style=for-the-badge&logo=next.js&logoColor=000">
+  <img alt="Next JS" src="https://img.shields.io/badge/Next%20Js-fff?style=for-the-badge&logo=next.js&logoColor=000">
+</a>
+<!-- TailwindCSS -->
+<a href="https://tailwindcss.com/" target="_blank"> 
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-0b1120?style=for-the-badge&logo=tailwind%20css&logoColor=38bdf8">
+</a>
+<!-- Sanity.Io -->
+<a href="https://sanity.io/" target="_blank"> 
+  <img alt="Sanity.io" src="https://img.shields.io/badge/Sanity.Io-f03e2f?style=for-the-badge&logo=stripe&logoColor=fff">
 </a>
 <!-- Skills end -->
 
