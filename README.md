@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">
+<h1>
   <b>Jozi Bashaj</b>
 </h1>
 
@@ -31,8 +31,8 @@ const WebDeveloper = {
 }
 ```
 
-<h1 align="center">
-  <b>My Stats</b>
+<h1>
+  <b>Github Stats</b>
 </h1>
 
 <p align="center">
