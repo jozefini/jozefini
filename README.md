@@ -31,7 +31,7 @@
   <b>Github Stats</b>
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeAlb&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Jozi Bashaj's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeAlb&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Jozi Bashaj's github-readme-streak-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeAlb&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="50%" alt="Jozi Bashaj's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeAlb&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="50%" alt="Jozi Bashaj's github-readme-streak-stats"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=CodeAlb&theme=react-dark&hide_border=true&" width="100%" alt="activity graph" />
 </p>
