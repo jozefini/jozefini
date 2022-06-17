@@ -10,10 +10,10 @@ Hello! I'm Jozi Bashaj, a web developer currently living in Shkoder, Albania. My
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React JS" src="https://img.shields.io/badge/React%20Js-20232a?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=222">
+    <img alt="React JS" src="https://img.shields.io/badge/React%20Js-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
   </a>
   <a href="https://www.nextjs.org" target="_blank"> 
-    <img alt="Next JS" src="https://img.shields.io/badge/Next%20Js-fff?style=for-the-badge&logo=next.js&logoColor=000&labelColor=222">
+    <img alt="Next JS" src="https://img.shields.io/badge/Next%20Js-fff?style=for-the-badge&logo=next.js&logoColor=000">
   </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-0b1120?style=for-the-badge&logo=tailwind%20css&logoColor=38bdf8">
