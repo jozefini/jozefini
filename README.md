@@ -1,8 +1,8 @@
 <h1>
-  <b>Jozi Bashaj</b>
+  <b>Hey there!</b>
 </h1>
 
-Hello! I'm Jozi Bashaj, a web developer currently living in Shkoder, Albania. My favourite stack is NextJS, TypeScript, TailwindCSS and Sanity.Io.
+I'm Jozi Bashaj, a web developer currently living in Shkoder, Albania. My favourite stack is NextJS, TypeScript, TailwindCSS and Sanity.Io.
 
 <br>
 
