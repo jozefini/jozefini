@@ -17,8 +17,8 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img alt="ReactJS" src="https://img.shields.io/badge/React%20Js-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233333FF.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img alt="Sanity Io" src="https://img.shields.io/badge/Sanity.io-f03e2f?style=for-the-badge&logo=spark%20ar&logoColor=fff">
+  <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
