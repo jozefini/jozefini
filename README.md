@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/jozibashaj">
-  <img height="180rem" align="center" src="https://github-readme-stats.vercel.app/api?username=CodeAlb&show_icons=true&theme=github_dark" />
+  <img height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=CodeAlb&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://www.linkedin.com/in/jozibashaj">
-  <img height="180rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlb&layout=compact&theme=github_dark" />
+  <img height="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlb&layout=compact&theme=github_dark" />
 </a>
