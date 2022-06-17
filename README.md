@@ -28,26 +28,20 @@
 
 <br>
 <h2>
-  <b>Statistics</b>
+  <b>📈 Statistics</b>
 </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeAlb&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="49%" alt="Jozi Bashaj's github-readme-stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeAlb&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Jozi Bashaj's github-readme-streak-stats"/>
- 
 </p>
-
-<br>
 <h2>
-  <b>Contributions</b>
+  <b>✨ Contributions</b>
 </h2>
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=CodeAlb&theme=react-dark&hide_border=true&" width="99%" align="center" alt="activity graph" />
 </p>
-
-
-<br>
 <h2>
-  <b>Trophies</b>
+  <b>🏆 Trophies</b>
 </h2>
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=CodeAlb&theme=dracula&no-frame=true&no-bg=false&margin-w=4" width="99%" align="center" alt="github trohpies" />
