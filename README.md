@@ -10,8 +10,7 @@
 :four: I’m located at Shkoder, Albania.<br/>
 
 <br>
-
-<p align="center">
+<p>
   <a href="https://reactjs.org/" target="_blank"> 
     <img alt="React JS" src="https://img.shields.io/badge/React%20Js-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
   </a>
@@ -25,6 +24,7 @@
     <img alt="Sanity.io" src="https://img.shields.io/badge/Sanity.Io-f03e2f?style=for-the-badge&logo=spark%20ar&logoColor=fff">
   </a>
 </p>
+<br>
 
 <h2>
   <b>Github Stats</b>
