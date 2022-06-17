@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2>Skills</h2>
 <!-- NextJS -->
 <a href="https://www.nextjs.org" target="_blank"> 
-  <img alt="Next JS" src="https://img.shields.io/badge/Next-111?style=for-the-badge&logo=next.js&logoColor=white">
+  <img alt="Next JS" src="https://img.shields.io/badge/Next-fff?style=for-the-badge&logo=next.js&logoColor=000">
 </a>
 <!-- Skills end -->
 
