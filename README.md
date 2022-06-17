@@ -3,7 +3,6 @@
   <b>Hi 👋, I'm Jozi</b>
 </h1>
 
-I'm a web developer currently living in Shkoder, Albania. I work with is NextJS, TypeScript, TailwindCSS and Sanity.Io.
 <b>Welcome!</b><br/>
 Some things about me:<br/>
 :one: Web Developer and IT Cisco Certified.<br/>
