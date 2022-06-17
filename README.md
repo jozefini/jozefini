@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/jozibashaj">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=CodeAlb&show_icons=true&theme=react" alt="Jozi Bashaj's github stats" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlb&layout=compact&theme=react" alt="Jozi Bashaj's top languages" />
 </a>
