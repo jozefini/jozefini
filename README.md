@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-const Profile = {
+const WebDeveloper = {
   name: 'Jozi Bashaj',
   username: 'CodeAlb',
   location: 'Shkoder, Albania',
   linkedIn: 'https//linkedin.com/in/JoziBashaj'
 }
-
-export default Profile
 ```
 
 <!-- Skills start -->
