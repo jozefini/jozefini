@@ -1,8 +1,15 @@
+<img src="https://komarev.com/ghpvc/?username=CodeAlb&label=Profile%20views&color=0e75b6&style=flat" alt="CodeAlb">
 <h1>
-  <b>Hey there!</b>
+  <b>Hi 👋, I'm Jozi</b>
 </h1>
 
-I'm Jozi Bashaj, a web developer currently living in Shkoder, Albania. I work with is NextJS, TypeScript, TailwindCSS and Sanity.Io.
+I'm a web developer currently living in Shkoder, Albania. I work with is NextJS, TypeScript, TailwindCSS and Sanity.Io.
+<b>Welcome!</b><br/>
+Some things about me:<br/>
+:one: Web Developer and IT Cisco Certified.<br/>
+:two: Proficient with ReactJS, NextJS, TypeScript, TailwindCSS and Sanity.Io.<br/> 
+:three: I’m currently working as freelancer.<br/>
+:four: I’m located at Shkoder, Albania.<br/>
 
 <br>
 
