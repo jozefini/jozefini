@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/jozibashaj">
-  ![CodeAlb's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeAlb&theme=github_dark&show_icons=true)
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=CodeAlb&show_icons=true&theme=react" alt="Jozi Bashaj's github stats" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlb&layout=compact&theme=react" alt="Jozi Bashaj's top languages" />
-</a>
+
+ [![Jozi Bashaj's github stats](https://github-readme-stats.vercel.app/api?username=CodeAlb&show_icons=true&theme=github_dark) ![Jozi Bashaj's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlb&layout=compact&theme=github_dark)](https://www.linkedin.com/in/jozibashaj)
