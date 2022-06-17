@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=CodeAlb&label=Profile%20views&color=0e75b6&style=flat" alt="CodeAlb">
+<img align="right" src="https://komarev.com/ghpvc/?username=CodeAlb&label=Profile%20views&color=0e75b6&style=flat" alt="CodeAlb">
 <h1>
   <b>Hi 👋, I'm Jozi</b>
 </h1>
