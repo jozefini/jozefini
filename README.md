@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>
   <b>Jozi Bashaj</b>
 </h1>
