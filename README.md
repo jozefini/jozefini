@@ -31,8 +31,8 @@
   <b>📈 Statistics</b>
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeAlb&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="49%" alt="Jozi Bashaj's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeAlb&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Jozi Bashaj's github-readme-streak-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeAlb&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="49%" alt="Jozi's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeAlb&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Jozi's github-readme-streak-stats"/>
 </p>
 <h2>
   <b>✨ Contributions</b>
