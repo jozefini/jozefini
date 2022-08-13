@@ -4,9 +4,9 @@
 </h1>
 
 <b>Welcome!</b> Some things about me:<br/>
-:one: Web Developer and IT Cisco Certified.<br/>
-:two: Proficient with ReactJS, NextJS, TypeScript, TailwindCSS and Sanity.Io.<br/> 
-:three: I’m currently working remotely as freelancer.<br/>
+:one: Full-Stack Web Dev & Content Creator<br/>
+:two: Proficient with ReactJS, Next.js, TailwindCSS, Express.js, MongoDB, Sanity.io, WordPress<br/> 
+:three: I’m currently looking for a job in JavaScript ecosystem<br/>
 
 <br>
 <p>
