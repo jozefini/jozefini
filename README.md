@@ -28,8 +28,6 @@
   <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
   <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 </p>
-
-<br>
 <h2>
   <b>📈 Statistics</b>
 </h2>
