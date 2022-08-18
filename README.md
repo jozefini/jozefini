@@ -38,8 +38,8 @@
   <b>✨ Contributions</b>
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmJozi&langs_count=6&theme=nord&hide_border=true" width="34%" alt="Jozi's Github Most Used Languages" align="center" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=iAmJozi&theme=nord&hide_border=true&" width="65%" align="center" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmJozi&langs_count=5&theme=nord&hide_border=true" width="25%" alt="Jozi's Github Most Used Languages" align="center" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=iAmJozi&theme=nord&hide_border=true&" width="74%" align="center" alt="activity graph" />
 </p>
 <h2>
   <b>🏆 Trophies</b>
