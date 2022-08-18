@@ -44,5 +44,6 @@
   <b>🏆 Trophies</b>
 </h2>
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=iAmJozi&theme=dracula&no-frame=true&no-bg=false&margin-w=4" width="99%" align="center" alt="github trohpies" />
+   <img src="https://github-profile-trophy.vercel.app/?username=iAmJozi&column=3&margin-w=4&margin-h=4&theme=nord&no-frame=true&no-bg=false" width="49%" align="center" alt="Jozi's Github Trophies" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=iAmJozi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Jozi's Github Streak Stats"/>
 </p>
