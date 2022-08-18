@@ -31,7 +31,8 @@
   <b>📈 Statistics</b>
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iAmJozi&theme=nord&show_icons=true&count_private=true&hide_border=true" width="49%" alt="Jozi's Github Stats"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=iAmJozi&theme=nord&show_icons=true&count_private=true&hide_border=true" width="49%" alt="Jozi's Github Stats"/>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmJozi&langs_count=10&theme=nord&hide_border=true&layout=compact&hide_title=true" width="49%" alt="Jozi's Github Most Used Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iAmJozi&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Jozi's Github Streak Stats"/>
 </p>
 <h2>
