@@ -9,6 +9,9 @@
 :three: I’m currently looking for a job in JavaScript ecosystem<br/>
 
 <br>
+<h2>
+  <b>👨‍💻 Skills</b>
+</h2>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
