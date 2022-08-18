@@ -44,5 +44,5 @@
   <b>🏆 Trophies</b>
 </h2>
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=iAmJozi&margin-w=4&margin-h=4&theme=nord&no-frame=true&no-bg=false" width="49%" align="center" alt="Jozi's Github Trophies" />
+   <img src="https://github-profile-trophy.vercel.app/?username=iAmJozi&margin-w=4&margin-h=4&theme=nord&no-frame=true&no-bg=false" width="100%" align="center" alt="Jozi's Github Trophies" />
 </p>
