@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=CodeAlb&label=Profile%20views&color=0e75b6&style=flat" alt="CodeAlb">
 <h1>
-  <b>Hi 👋, I am Jozi</b>
+  <b>Hi 👋, I am Jozef</b>
 </h1>
 
 <b>Welcome!</b> Some things about me:<br/>
