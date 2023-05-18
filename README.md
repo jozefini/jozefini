@@ -21,10 +21,10 @@
     </a>
 </p>
 
-<div align="center">
+<div align="left">
 
 <br />
-<b>Languages</b><br/>
+<b>Languages</b><br/><br/>
 <img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge&logoColor=fff" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/php-black?logo=php&style=for-the-badge&logoColor=fff" alt="PHP"/>
 <img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=fff" alt="React JS"/>
