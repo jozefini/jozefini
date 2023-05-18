@@ -24,37 +24,37 @@
 <div align="left">
 
 <br />
-<b>Languages</b><br/><br/>
+<b>Languages</b><br/>
 <img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge&logoColor=fff" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/php-black?logo=php&style=for-the-badge&logoColor=fff" alt="PHP"/>
 <img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/svelte-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="React JS"/>
 
-<br/>
+<br/><br/>
 <b style="font-size:12px;text-transform:uppercase;display:block;">Frameworks</b><br/>
 <img src="https://img.shields.io/badge/next js-black?logo=next.js&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/svelte kit-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="React JS"/>
 
-<br/>
+<br/><br/>
 <b style="font-size:12px;text-transform:uppercase;display:block;">Backend</b><br/>
 <img src="https://img.shields.io/badge/wordpress-black?logo=wordpress&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/sanity.io-black?logo=stripe&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/express-black?logo=express&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/node.js-black?logo=node.js&style=for-the-badge&logoColor=fff" alt="React JS"/>
 
-<br/>
+<br/><br/>
 <b>Frontend</b><br/>
 <img src="https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/sass-black?logo=sass&style=for-the-badge&logoColor=fff" alt="React JS"/>
 
-<br />
+<br /><br/>
 <b>Applications</b><br/>
 <img src="https://img.shields.io/badge/VS Code-black?logo=Visual Studio Code&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/PHPStorm-black?logo=phpstorm&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Figma-black?logo=figma&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Photoshop-black?logo=adobe photoshop&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 
-<br />
+<br /><br/>
 <b>Workflow</b><br/>
 <img src="https://img.shields.io/badge/ClickUp-black?logo=clickup&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Jira-black?logo=Jira&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
