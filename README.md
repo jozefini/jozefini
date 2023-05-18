@@ -1,49 +1,84 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=jozefini&label=Profile%20views&color=0e75b6&style=flat" alt="CodeAlb">
-<h1>
-  <b>Hi 👋, I am Jozef</b>
-</h1>
+<div align="center">
+    <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
+</div>
 
-<b>Welcome!</b> Some things about me:<br/>
-:one: Full-Stack Web Dev & Content Creator<br/>
-:two: Proficient with ReactJS, Next.js, TailwindCSS, Express.js, MongoDB, Sanity.io, WordPress, Svelte<br/> 
+<p align="center">
+    <i>
+    Hello, I'm Jozefini,
+    <br>
+    A full-stack web developer with over 6 years of experience.<br/>
+    I build things with WordPress, React JS, Svelte and other cool technologies.
+    <br>
+    <br>
+    <a href="https://www.linkedin.com/in/jozefini" target="_blank">
+       <img src="https://img.shields.io/badge/linkedin-black?logo=linkedin&style=for-the-badge&logoColor=fff" alt="PHP" />
+    </a>
+    <a href="https://twitter.com/im_jozef" target="_blank">
+       <img src="https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=fff" alt="PHP" />
+    </a>
+    <a href="https://www.codepen.io/jozefini" target="_blank">
+       <img src="https://img.shields.io/badge/codepen-black?logo=codepen&style=for-the-badge&logoColor=fff" alt="PHP" />
+    </a>
+</p>
 
-<br>
-<h2>
-  <b>👨‍💻 Skills</b>
-</h2>
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img alt="ReactJS" src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233333FF.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Sanity Io" src="https://img.shields.io/badge/sanity.io-f03e2f?style=for-the-badge&logo=spark%20ar&logoColor=fff">
-  <img alt="NextJS" src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-  <img alt="NodeJS" src="https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="NPM" src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-  <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-</p>
-<h2>
-  <b>📈 Statistics</b>
-</h2>
+<div align="left">
+
+<br />
+<b style="font-size:12px;text-transform:uppercase;display:block;">Languages</b>
+<img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge&logoColor=fff" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/php-black?logo=php&style=for-the-badge&logoColor=fff" alt="PHP"/>
+<img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<img src="https://img.shields.io/badge/svelte-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="React JS"/>
+
+<br/>
+<b style="font-size:12px;text-transform:uppercase;display:block;">Frameworks</b>
+<img src="https://img.shields.io/badge/next js-black?logo=next.js&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<img src="https://img.shields.io/badge/svelte kit-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="React JS"/>
+
+<br/>
+<b style="font-size:12px;text-transform:uppercase;display:block;">Backend</b>
+<img src="https://img.shields.io/badge/wordpress-black?logo=wordpress&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<img src="https://img.shields.io/badge/sanity.io-black?logo=stripe&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<img src="https://img.shields.io/badge/express-black?logo=express&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<img src="https://img.shields.io/badge/node.js-black?logo=node.js&style=for-the-badge&logoColor=fff" alt="React JS"/>
+
+<br/>
+<b style="font-size:12px;text-transform:uppercase;display:block;">Frontend</b>
+<img src="https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<img src="https://img.shields.io/badge/sass-black?logo=sass&style=for-the-badge&logoColor=fff" alt="React JS"/>
+
+<br />
+<b style="font-size:12px;text-transform:uppercase;display:block;">Applications</b>
+<img src="https://img.shields.io/badge/VS Code-black?logo=Visual Studio Code&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+<img src="https://img.shields.io/badge/PHPStorm-black?logo=phpstorm&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+<img src="https://img.shields.io/badge/Figma-black?logo=figma&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+<img src="https://img.shields.io/badge/Photoshop-black?logo=adobe photoshop&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+
+<br />
+<b style="font-size:12px;text-transform:uppercase;display:block;">Workflow</b>
+<img src="https://img.shields.io/badge/ClickUp-black?logo=clickup&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+<img src="https://img.shields.io/badge/Jira-black?logo=Jira&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+<img src="https://img.shields.io/badge/Everhour-black?logo=cookiecutter&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+<img src="https://img.shields.io/badge/Notion-black?logo=notion&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+
+<br />
+<b style="font-size:12px;text-transform:uppercase;display:block;">Devices</b>
+<img src="https://img.shields.io/badge/Macbook M1 pro-black?logo=apple&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+<img src="https://img.shields.io/badge/Samsung note s20-black?logo=samsung&style=for-the-badge&logoColor=fff" alt="React JS"/>
+</div>
+
+<br />
+<b style="font-size:12px;text-transform:uppercase;display:block;">Profile Stats</b>
+<details>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jozefini&theme=nord&show_icons=true&count_private=true&hide_border=true" width="49%" alt="Jozi's Github Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jozefini&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Jozi's Github Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jozefini&hide_border=true&card_width=338&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jozefini&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozefini&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
 </p>
-<h2>
-  <b>✨ Contributions</b>
-</h2>
+</details>
+
+<br />
+<br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozefini&langs_count=5&theme=nord&hide_border=true" width="27%" alt="Jozi's Github Most Used Languages" align="center" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=jozefini&theme=nord&hide_border=true&" width="72%" align="center" alt="activity graph" />
-</p>
-<h2>
-  <b>🏆 Trophies</b>
-</h2>
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=jozefini&margin-w=4&margin-h=4&theme=nord&no-frame=true&no-bg=false" width="99%" align="center" alt="Jozi's Github Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=jozefini&color=green&style=flat" />
 </p>
