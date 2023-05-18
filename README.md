@@ -24,51 +24,51 @@
 <div align="left">
 
 <br />
-<b style="font-size:12px;text-transform:uppercase;display:block;">Languages</b>
+<b>Languages</b><br/>
 <img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge&logoColor=fff" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/php-black?logo=php&style=for-the-badge&logoColor=fff" alt="PHP"/>
 <img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/svelte-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="React JS"/>
 
 <br/>
-<b style="font-size:12px;text-transform:uppercase;display:block;">Frameworks</b>
+<b style="font-size:12px;text-transform:uppercase;display:block;">Frameworks</b><br/>
 <img src="https://img.shields.io/badge/next js-black?logo=next.js&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/svelte kit-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="React JS"/>
 
 <br/>
-<b style="font-size:12px;text-transform:uppercase;display:block;">Backend</b>
+<b style="font-size:12px;text-transform:uppercase;display:block;">Backend</b><br/>
 <img src="https://img.shields.io/badge/wordpress-black?logo=wordpress&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/sanity.io-black?logo=stripe&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/express-black?logo=express&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/node.js-black?logo=node.js&style=for-the-badge&logoColor=fff" alt="React JS"/>
 
 <br/>
-<b style="font-size:12px;text-transform:uppercase;display:block;">Frontend</b>
+<b>Frontend</b><br/>
 <img src="https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge&logoColor=fff" alt="React JS"/>
 <img src="https://img.shields.io/badge/sass-black?logo=sass&style=for-the-badge&logoColor=fff" alt="React JS"/>
 
 <br />
-<b style="font-size:12px;text-transform:uppercase;display:block;">Applications</b>
+<b>Applications</b><br/>
 <img src="https://img.shields.io/badge/VS Code-black?logo=Visual Studio Code&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/PHPStorm-black?logo=phpstorm&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Figma-black?logo=figma&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Photoshop-black?logo=adobe photoshop&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 
 <br />
-<b style="font-size:12px;text-transform:uppercase;display:block;">Workflow</b>
+<b>Workflow</b>
 <img src="https://img.shields.io/badge/ClickUp-black?logo=clickup&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Jira-black?logo=Jira&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Everhour-black?logo=cookiecutter&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Notion-black?logo=notion&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 
 <br />
-<b style="font-size:12px;text-transform:uppercase;display:block;">Devices</b>
+<b style="font-size:12px;text-transform:uppercase;display:block;">Devices</b><br/>
 <img src="https://img.shields.io/badge/Macbook M1 pro-black?logo=apple&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Samsung note s20-black?logo=samsung&style=for-the-badge&logoColor=fff" alt="React JS"/>
 </div>
 
 <br />
-<b style="font-size:12px;text-transform:uppercase;display:block;">Profile Stats</b>
+<b>Profile Stats</b>
 <details>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jozefini&hide_border=true&card_width=338&theme=transparent" />
