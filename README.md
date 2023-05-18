@@ -21,7 +21,7 @@
     </a>
 </p>
 
-<div align="left">
+<div align="center">
 
 <br />
 <b>Languages</b><br/>
