@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/Photoshop-black?logo=adobe photoshop&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 
 <br />
-<b>Workflow</b>
+<b>Workflow</b><br/>
 <img src="https://img.shields.io/badge/ClickUp-black?logo=clickup&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Jira-black?logo=Jira&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
 <img src="https://img.shields.io/badge/Everhour-black?logo=cookiecutter&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
