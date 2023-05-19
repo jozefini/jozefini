@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/Notion-black?logo=notion&style=for-the-badge&logoColor=white" alt="Notion"/>
 
 <br />
-<b style="font-size:12px;text-transform:uppercase;display:block;">Devices</b><br/>
+<b>Devices</b><br/>
 <img src="https://img.shields.io/badge/Macbook M1 pro-black?logo=apple&style=for-the-badge&logoColor=white" alt="Macbook M1 Pro"/>
 <img src="https://img.shields.io/badge/Samsung note s20-black?logo=samsung&style=for-the-badge&logoColor=3B75E6" alt="Samsung Note S20"/>
 </div>
