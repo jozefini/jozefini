@@ -11,13 +11,13 @@
     <br>
     <br>
     <a href="https://www.linkedin.com/in/jozefini" target="_blank">
-       <img src="https://img.shields.io/badge/linkedin-black?logo=linkedin&style=for-the-badge&logoColor=fff" alt="Jozefini's Linkedin" />
+       <img src="https://img.shields.io/badge/linkedin-black?logo=linkedin&style=for-the-badge&logoColor=000&labelColor=white" alt="Jozefini's Linkedin" />
     </a>
     <a href="https://twitter.com/im_jozef" target="_blank">
-       <img src="https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=fff" alt="Jozefini's Twitter" />
+       <img src="https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=000&labelColor=white" alt="Jozefini's Twitter" />
     </a>
     <a href="https://www.codepen.io/jozefini" target="_blank">
-       <img src="https://img.shields.io/badge/codepen-black?logo=codepen&style=for-the-badge&logoColor=fff" alt="Jozefini's Codepen" />
+       <img src="https://img.shields.io/badge/codepen-black?logo=codepen&style=for-the-badge&logoColor=000&labelColor=white" alt="Jozefini's Codepen" />
     </a>
 </p>
 
@@ -25,10 +25,10 @@
 
 <br/>
 <b>Languages</b><br/>
-<img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge&logoColor=fff" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/php-black?logo=php&style=for-the-badge&logoColor=fff" alt="PHP"/>
-<img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=fff" alt="React"/>
-<img src="https://img.shields.io/badge/svelte-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="Svelte"/>
+<img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge&logoColor=000&labelColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/php-black?logo=php&style=for-the-badge&logoColor=000&labelColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=000&labelColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/svelte-black?logo=svelte&style=for-the-badge&logoColor=000&labelColor=white" alt="Svelte"/>
 
 <br/>
 <b>Frameworks</b><br/>
