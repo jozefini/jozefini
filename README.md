@@ -26,6 +26,7 @@
 <br/>
 <b>Languages</b><br/>
 <img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge&logoColor=D4C65D" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/typescript-black?logo=typescript&style=for-the-badge&logoColor=3C65A5" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/php-black?logo=php&style=for-the-badge&logoColor=7D86B4" alt="PHP"/>
 <img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=7BCBEA" alt="React"/>
 <img src="https://img.shields.io/badge/svelte-black?logo=svelte&style=for-the-badge&logoColor=DE4B25" alt="Svelte"/>
