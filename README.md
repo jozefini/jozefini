@@ -32,39 +32,39 @@
 
 <br/>
 <b>Frameworks</b><br/>
-<img src="https://img.shields.io/badge/next js-black?logo=next.js&style=for-the-badge&logoColor=fff" alt="Next JS"/>
-<img src="https://img.shields.io/badge/svelte kit-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="Svelte Kit"/>
+<img src="https://img.shields.io/badge/next js-black?logo=next.js&style=for-the-badge&logoColor=000&labelColor=white" alt="Next JS"/>
+<img src="https://img.shields.io/badge/svelte kit-black?logo=svelte&style=for-the-badge&logoColor=000&labelColor=white" alt="Svelte Kit"/>
 
 <br/>
 <b>Backend</b><br/>
-<img src="https://img.shields.io/badge/wordpress-black?logo=wordpress&style=for-the-badge&logoColor=fff" alt="WordPress"/>
-<img src="https://img.shields.io/badge/sanity.io-black?logo=stripe&style=for-the-badge&logoColor=fff" alt="Sanity.io"/>
-<img src="https://img.shields.io/badge/express-black?logo=express&style=for-the-badge&logoColor=fff" alt="Express.js"/>
-<img src="https://img.shields.io/badge/node.js-black?logo=node.js&style=for-the-badge&logoColor=fff" alt="Node.js"/>
+<img src="https://img.shields.io/badge/wordpress-black?logo=wordpress&style=for-the-badge&logoColor=000&labelColor=white" alt="WordPress"/>
+<img src="https://img.shields.io/badge/sanity.io-black?logo=stripe&style=for-the-badge&logoColor=000&labelColor=white" alt="Sanity.io"/>
+<img src="https://img.shields.io/badge/express-black?logo=express&style=for-the-badge&logoColor=000&labelColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/node.js-black?logo=node.js&style=for-the-badge&logoColor=000&labelColor=white" alt="Node.js"/>
 
 <br/>
 <b>Frontend</b><br/>
-<img src="https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge&logoColor=fff" alt="TailwindCSS"/>
-<img src="https://img.shields.io/badge/sass-black?logo=sass&style=for-the-badge&logoColor=fff" alt="SASS/SCSS"/>
+<img src="https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge&logoColor=000&labelColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/sass-black?logo=sass&style=for-the-badge&logoColor=000&labelColor=white" alt="SASS/SCSS"/>
 
 <br/>
 <b>Applications</b><br/>
-<img src="https://img.shields.io/badge/VS Code-black?logo=Visual Studio Code&style=for-the-badge&logoColor=fff" alt="VS Code"/>
-<img src="https://img.shields.io/badge/PHPStorm-black?logo=phpstorm&style=for-the-badge&logoColor=fff" alt="PHPStorm"/>
-<img src="https://img.shields.io/badge/Figma-black?logo=figma&style=for-the-badge&logoColor=fff" alt="Figma"/>
-<img src="https://img.shields.io/badge/Photoshop-black?logo=adobe photoshop&style=for-the-badge&logoColor=fff" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/VS Code-black?logo=Visual Studio Code&style=for-the-badge&logoColor=000&labelColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/PHPStorm-black?logo=phpstorm&style=for-the-badge&logoColor=000&labelColor=white" alt="PHPStorm"/>
+<img src="https://img.shields.io/badge/Figma-black?logo=figma&style=for-the-badge&logoColor=000&labelColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Photoshop-black?logo=adobe photoshop&style=for-the-badge&logoColor=000&labelColor=white" alt="Photoshop"/>
 
 <br/>
 <b>Workflow</b><br/>
-<img src="https://img.shields.io/badge/ClickUp-black?logo=clickup&style=for-the-badge&logoColor=fff" alt="ClickUp"/>
-<img src="https://img.shields.io/badge/Jira-black?logo=Jira&style=for-the-badge&logoColor=fff" alt="Jira"/>
-<img src="https://img.shields.io/badge/Everhour-black?logo=cookiecutter&style=for-the-badge&logoColor=fff" alt="Everhour"/>
-<img src="https://img.shields.io/badge/Notion-black?logo=notion&style=for-the-badge&logoColor=fff" alt="Notion"/>
+<img src="https://img.shields.io/badge/ClickUp-black?logo=clickup&style=for-the-badge&logoColor=000&labelColor=white" alt="ClickUp"/>
+<img src="https://img.shields.io/badge/Jira-black?logo=Jira&style=for-the-badge&logoColor=000&labelColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Everhour-black?logo=cookiecutter&style=for-the-badge&logoColor=000&labelColor=white" alt="Everhour"/>
+<img src="https://img.shields.io/badge/Notion-black?logo=notion&style=for-the-badge&logoColor=000&labelColor=white" alt="Notion"/>
 
 <br />
 <b style="font-size:12px;text-transform:uppercase;display:block;">Devices</b><br/>
-<img src="https://img.shields.io/badge/Macbook M1 pro-black?logo=apple&style=for-the-badge&logoColor=fff" alt="Macbook M1 Pro"/>
-<img src="https://img.shields.io/badge/Samsung note s20-black?logo=samsung&style=for-the-badge&logoColor=fff" alt="Samsung Note S20"/>
+<img src="https://img.shields.io/badge/Macbook M1 pro-black?logo=apple&style=for-the-badge&logoColor=000&labelColor=white" alt="Macbook M1 Pro"/>
+<img src="https://img.shields.io/badge/Samsung note s20-black?logo=samsung&style=for-the-badge&logoColor=000&labelColor=white" alt="Samsung Note S20"/>
 </div>
 
 <br />
