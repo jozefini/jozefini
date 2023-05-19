@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/php-black?logo=php&style=for-the-badge&logoColor=7D86B4" alt="PHP"/>
 <img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=7BCBEA" alt="React"/>
 <img src="https://img.shields.io/badge/svelte-black?logo=svelte&style=for-the-badge&logoColor=DE4B25" alt="Svelte"/>
+<img src="https://img.shields.io/badge/css-black?logo=css3&style=for-the-badge&logoColor=2C64B1" alt="CSS"/>
 
 <br/>
 <b>Frameworks</b><br/>
@@ -47,6 +48,7 @@
 <b>Frontend</b><br/>
 <img src="https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge&logoColor=4DAAC6" alt="TailwindCSS"/>
 <img src="https://img.shields.io/badge/sass-black?logo=sass&style=for-the-badge&logoColor=B66790" alt="SASS/SCSS"/>
+<img src="https://img.shields.io/badge/framer motion-black?logo=framer&style=for-the-badge&logoColor=white" alt="SASS/SCSS"/>
 
 <br/>
 <b>Applications</b><br/>
