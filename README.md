@@ -11,60 +11,60 @@
     <br>
     <br>
     <a href="https://www.linkedin.com/in/jozefini" target="_blank">
-       <img src="https://img.shields.io/badge/linkedin-black?logo=linkedin&style=for-the-badge&logoColor=fff" alt="PHP" />
+       <img src="https://img.shields.io/badge/linkedin-black?logo=linkedin&style=for-the-badge&logoColor=fff" alt="Jozefini's Linkedin" />
     </a>
     <a href="https://twitter.com/im_jozef" target="_blank">
-       <img src="https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=fff" alt="PHP" />
+       <img src="https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=fff" alt="Jozefini's Twitter" />
     </a>
     <a href="https://www.codepen.io/jozefini" target="_blank">
-       <img src="https://img.shields.io/badge/codepen-black?logo=codepen&style=for-the-badge&logoColor=fff" alt="PHP" />
+       <img src="https://img.shields.io/badge/codepen-black?logo=codepen&style=for-the-badge&logoColor=fff" alt="Jozefini's Codepen" />
     </a>
 </p>
 
 <div align="left">
 
-<br />
+<br/>
 <b>Languages</b><br/>
 <img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge&logoColor=fff" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/php-black?logo=php&style=for-the-badge&logoColor=fff" alt="PHP"/>
-<img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=fff" alt="React JS"/>
-<img src="https://img.shields.io/badge/svelte-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge&logoColor=fff" alt="React"/>
+<img src="https://img.shields.io/badge/svelte-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="Svelte"/>
 
-<br/><br/>
-<b style="font-size:12px;text-transform:uppercase;display:block;">Frameworks</b><br/>
-<img src="https://img.shields.io/badge/next js-black?logo=next.js&style=for-the-badge&logoColor=fff" alt="React JS"/>
-<img src="https://img.shields.io/badge/svelte kit-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<br/>
+<b>Frameworks</b><br/>
+<img src="https://img.shields.io/badge/next js-black?logo=next.js&style=for-the-badge&logoColor=fff" alt="Next JS"/>
+<img src="https://img.shields.io/badge/svelte kit-black?logo=svelte&style=for-the-badge&logoColor=fff" alt="Svelte Kit"/>
 
-<br/><br/>
-<b style="font-size:12px;text-transform:uppercase;display:block;">Backend</b><br/>
-<img src="https://img.shields.io/badge/wordpress-black?logo=wordpress&style=for-the-badge&logoColor=fff" alt="React JS"/>
-<img src="https://img.shields.io/badge/sanity.io-black?logo=stripe&style=for-the-badge&logoColor=fff" alt="React JS"/>
-<img src="https://img.shields.io/badge/express-black?logo=express&style=for-the-badge&logoColor=fff" alt="React JS"/>
-<img src="https://img.shields.io/badge/node.js-black?logo=node.js&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<br/>
+<b>Backend</b><br/>
+<img src="https://img.shields.io/badge/wordpress-black?logo=wordpress&style=for-the-badge&logoColor=fff" alt="WordPress"/>
+<img src="https://img.shields.io/badge/sanity.io-black?logo=stripe&style=for-the-badge&logoColor=fff" alt="Sanity.io"/>
+<img src="https://img.shields.io/badge/express-black?logo=express&style=for-the-badge&logoColor=fff" alt="Express.js"/>
+<img src="https://img.shields.io/badge/node.js-black?logo=node.js&style=for-the-badge&logoColor=fff" alt="Node.js"/>
 
-<br/><br/>
+<br/>
 <b>Frontend</b><br/>
-<img src="https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge&logoColor=fff" alt="React JS"/>
-<img src="https://img.shields.io/badge/sass-black?logo=sass&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<img src="https://img.shields.io/badge/tailwindcss-black?logo=tailwindcss&style=for-the-badge&logoColor=fff" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/sass-black?logo=sass&style=for-the-badge&logoColor=fff" alt="SASS/SCSS"/>
 
-<br /><br/>
+<br/>
 <b>Applications</b><br/>
-<img src="https://img.shields.io/badge/VS Code-black?logo=Visual Studio Code&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
-<img src="https://img.shields.io/badge/PHPStorm-black?logo=phpstorm&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
-<img src="https://img.shields.io/badge/Figma-black?logo=figma&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
-<img src="https://img.shields.io/badge/Photoshop-black?logo=adobe photoshop&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+<img src="https://img.shields.io/badge/VS Code-black?logo=Visual Studio Code&style=for-the-badge&logoColor=fff" alt="VS Code"/>
+<img src="https://img.shields.io/badge/PHPStorm-black?logo=phpstorm&style=for-the-badge&logoColor=fff" alt="PHPStorm"/>
+<img src="https://img.shields.io/badge/Figma-black?logo=figma&style=for-the-badge&logoColor=fff" alt="Figma"/>
+<img src="https://img.shields.io/badge/Photoshop-black?logo=adobe photoshop&style=for-the-badge&logoColor=fff" alt="Photoshop"/>
 
-<br /><br/>
+<br/>
 <b>Workflow</b><br/>
-<img src="https://img.shields.io/badge/ClickUp-black?logo=clickup&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
-<img src="https://img.shields.io/badge/Jira-black?logo=Jira&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
-<img src="https://img.shields.io/badge/Everhour-black?logo=cookiecutter&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
-<img src="https://img.shields.io/badge/Notion-black?logo=notion&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
+<img src="https://img.shields.io/badge/ClickUp-black?logo=clickup&style=for-the-badge&logoColor=fff" alt="ClickUp"/>
+<img src="https://img.shields.io/badge/Jira-black?logo=Jira&style=for-the-badge&logoColor=fff" alt="Jira"/>
+<img src="https://img.shields.io/badge/Everhour-black?logo=cookiecutter&style=for-the-badge&logoColor=fff" alt="Everhour"/>
+<img src="https://img.shields.io/badge/Notion-black?logo=notion&style=for-the-badge&logoColor=fff" alt="Notion"/>
 
 <br />
 <b style="font-size:12px;text-transform:uppercase;display:block;">Devices</b><br/>
-<img src="https://img.shields.io/badge/Macbook M1 pro-black?logo=apple&style=for-the-badge&logoColor=fff" alt="Apple MAC"/>
-<img src="https://img.shields.io/badge/Samsung note s20-black?logo=samsung&style=for-the-badge&logoColor=fff" alt="React JS"/>
+<img src="https://img.shields.io/badge/Macbook M1 pro-black?logo=apple&style=for-the-badge&logoColor=fff" alt="Macbook M1 Pro"/>
+<img src="https://img.shields.io/badge/Samsung note s20-black?logo=samsung&style=for-the-badge&logoColor=fff" alt="Samsung Note S20"/>
 </div>
 
 <br />
