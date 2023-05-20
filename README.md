@@ -7,7 +7,7 @@
     Hello, I'm Jozefini,
     <br>
     A full-stack web developer with over 6 years of experience.<br/>
-    I build things with WordPress, React JS, Svelte and other cool technologies.
+    I build web apps in WordPress, React, Svelte and other cool new technologies.
     <br>
     <br>
     <a href="https://www.linkedin.com/in/jozefini" target="_blank">
