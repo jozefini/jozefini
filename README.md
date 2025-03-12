@@ -1,5 +1,3 @@
-Highlight uses:
-
 ### Senior Full-Stack Web Developer with 10+ years of experience
 
 Building elegant solutions and contributing to the JavaScript ecosystem.
